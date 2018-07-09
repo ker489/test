@@ -1,0 +1,8 @@
+total 72
+drwxrwxr-x 3 ec2-user ec2-user  4096 Jul  8 06:08 dir1
+-rw-rw-r-- 1 ec2-user ec2-user   155 Jul  8 06:36 hello.hml
+-rw-rw-r-- 1 ec2-user ec2-user    47 Jul  8 06:33 hello.html
+-rw-rw-r-- 1 ec2-user ec2-user     0 Jul  9 15:08 log.txt
+-rw-rw-r-- 1 ec2-user ec2-user 50520 Jul  9 14:56 paris.jpeg
+-rw-r--r-- 1 ec2-user ec2-user   570 Jul  5 17:42 README.md
+-rw-r--r-- 1 ec2-user ec2-user    20 Jul  5 17:47 test.py
